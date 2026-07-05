@@ -1,10 +1,19 @@
 [ 
-  {
-  "title": "Название сериала",
+{
+  "title": "Название",
+  "year": "2026",
+  "rating": "8.5",
+  "genre": "Драма",
+  "duration": "12 серий",
   "type": "series",
   "videoUrl": "https://vk.com/video...",
   "episodes": [
     "https://vk.com/video_ext.php?oid=...&id=...&hd=4",
     "https://vk.com/video_ext.php?oid=...&id=...&hd=4"
-    }
+  ],
+  "desc": "Описание...",
+  "id": 0,
+  "image": "https://...",
+  "tags": ["драма", "триллер"]
+}
   ]
